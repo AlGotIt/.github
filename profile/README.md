@@ -3,7 +3,7 @@
 - 🌱 We are studying Algorithm & Data Structure
 - 🍒 C++, JavaScript, Python, PHP, Swift, etc.
 
-<h3 align="center">💻 Tech Stack 💻</h3>
+<h3 align="center">💻 Languages 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
@@ -12,9 +12,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>&nbsp 
 </p>
-<br>
+<br/>
 
-<h3 align="center">🌈 Algorithm Reference Pages 🌈</h3>
+<h3 align="center">🌈 Algorithm Problem Source🌈</h3>
+<br/>
 <p>
   <ul>
     <li>
