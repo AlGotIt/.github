@@ -15,5 +15,14 @@
 <br>
 
 <h3 align="center">🌈 Algorithm Reference Pages 🌈</h3>
-- BaekJoon <a href="https://www.acmicpc.net/">https://www.acmicpc.net/</a>
-- Programmers  <a href="https://school.programmers.co.kr/">https://school.programmers.co.kr/</a>
+<p>
+  <ul>
+    <li>
+      BaekJoon <a href="https://www.acmicpc.net/">https://www.acmicpc.net/</a>
+    </li>
+    <li>
+      Programmers  <a href="https://school.programmers.co.kr/">https://school.programmers.co.kr/</a>
+    </li>
+  </ul>
+
+</p>
